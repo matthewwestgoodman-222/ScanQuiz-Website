@@ -1,13 +1,29 @@
 # Terms of Use
+**Effective date:** September 27, 2025
 
-Effective Date: September 27, 2025
+These Terms govern your use of **StudyBuddy: Scan & Quiz** (“the App”). By using the App, you agree to these Terms.
 
-By using StudyBuddy – Scan & Quiz (“the App”), you agree to the following terms:
+## License
+We grant you a personal, non-exclusive, non-transferable license to use the App on Apple-branded devices you own or control, subject to the Apple Media Services Terms.
 
-1. **License**: You are granted a non-transferable, non-exclusive license to use the App for personal educational purposes.  
-2. **Subscriptions**: Premium features are available via recurring subscription managed by Apple. You may cancel at any time in your iOS settings.  
-3. **Limitations**: You may not reverse engineer, resell, or redistribute the App.  
-4. **Disclaimer**: The App provides practice quizzes and explanations but does not guarantee exam success.  
-5. **Liability**: To the maximum extent permitted by law, we disclaim liability for damages arising from the use of the App.  
+## User content
+You are responsible for content you scan or input. Do not upload or request quizzes for content you don’t have a right to use. You agree not to use the App to violate any law or third-party rights.
 
-For support, contact support@funlabapps.com.
+## AI-generated output
+The App can generate questions and explanations using an AI service. Output may contain errors. Use your own judgment and verify important information. We are not liable for decisions made based on AI output.
+
+## Subscriptions & trials
+The App offers auto-renewing subscriptions with an optional free trial.  
+- Payment is charged to your Apple ID.  
+- Subscription renews automatically unless canceled at least 24 hours before the end of the current period.  
+- Manage or cancel in **Settings > Apple ID > Subscriptions**.  
+- Any unused portion of a free trial is forfeited when you purchase a subscription.
+
+## Availability & changes
+Features may change or be discontinued at any time. We may update these Terms; continued use after changes means you accept the updated Terms.
+
+## Disclaimer & limitation of liability
+The App is provided “AS IS” without warranties of any kind. To the maximum extent permitted by law, we are not liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the App.
+
+## Contact
+Questions about these Terms? Email **support@funlabapps.com**.
