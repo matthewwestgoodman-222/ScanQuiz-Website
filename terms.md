@@ -1,7 +1,7 @@
 # Terms of Use
 **Effective date:** September 27, 2025
 
-These Terms govern your use of **StudyBuddy: Scan & Quiz** (“the App”). By using the App, you agree to these Terms.
+These Terms govern your use of **ScanQuiz: Scan & Quiz** (“the App”). By using the App, you agree to these Terms.
 
 ## License
 We grant you a personal, non-exclusive, non-transferable license to use the App on Apple-branded devices you own or control, subject to the Apple Media Services Terms.
@@ -26,4 +26,4 @@ Features may change or be discontinued at any time. We may update these Terms; c
 The App is provided “AS IS” without warranties of any kind. To the maximum extent permitted by law, we are not liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the App.
 
 ## Contact
-Questions about these Terms? Email **support@funlabapps.com**.
+Questions about these Terms? Email **support@scanquiz.app**.
