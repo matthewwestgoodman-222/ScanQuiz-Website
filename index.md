@@ -1,14 +1,14 @@
-# ScanQuiz Legal
-
-Welcome to the legal information for **ScanQuiz: Study Smarter**.  
-
-Here you’ll find our current policies and terms of use.  
-
+---
+layout: page
+title: ScanQuiz
+permalink: /
 ---
 
-📄 [Privacy Policy](privacy.md)  
-📄 [Terms of Use](terms.md)  
+# ScanQuiz: Study Smarter
 
----
+Turn textbook pages into quizzes instantly.
 
-_Last updated: September 27, 2025_
+- [Support](/support)
+- [Privacy Policy](/privacy)
+- [Terms of Use](/terms)
+- [EULA](/eula)

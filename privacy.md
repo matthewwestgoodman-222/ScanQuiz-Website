@@ -29,4 +29,5 @@ We use industry-standard TLS to transmit data to our AI provider when you genera
 We may update this policy from time to time. Material changes will be reflected on this page with an updated effective date.
 
 ## Contact
-Questions? Email **support@scanquiz.app**.
+Questions? Email **support@appscan.app**.
+

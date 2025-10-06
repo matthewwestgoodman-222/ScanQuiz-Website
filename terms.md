@@ -26,4 +26,5 @@ Features may change or be discontinued at any time. We may update these Terms; c
 The App is provided “AS IS” without warranties of any kind. To the maximum extent permitted by law, we are not liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the App.
 
 ## Contact
-Questions about these Terms? Email **support@scanquiz.app**.
+Questions about these Terms? Email **support@appscan.app**.
+
