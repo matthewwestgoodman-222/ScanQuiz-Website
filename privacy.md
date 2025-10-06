@@ -1,7 +1,7 @@
 # Privacy Policy
 **Effective date:** September 27, 2025
 
-**StudyBuddy: Scan & Quiz** (“the App”, “we”, “our”) respects your privacy.
+**ScanQuiz: Scan & Quiz** (“the App”, “we”, “our”) respects your privacy.
 
 ## What we collect
 - **No account data.** We don’t require you to create an account and we don’t collect names, emails, or other personal identifiers.
@@ -29,4 +29,4 @@ We use industry-standard TLS to transmit data to our AI provider when you genera
 We may update this policy from time to time. Material changes will be reflected on this page with an updated effective date.
 
 ## Contact
-Questions? Email **support@funlabapps.com**.
+Questions? Email **support@scanquiz.app**.
