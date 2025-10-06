@@ -1,6 +1,6 @@
-# StudyBuddy Legal
+# ScanQuiz Legal
 
-Welcome to the legal information for **StudyBuddy: Scan & Quiz**.  
+Welcome to the legal information for **ScanQuiz: Study Smarter**.  
 
 Here you’ll find our current policies and terms of use.  
 
