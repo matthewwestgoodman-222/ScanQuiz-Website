@@ -1,33 +1,116 @@
 # Privacy Policy
-**Effective date:** September 27, 2025
+**Effective date:** December 2, 2025
 
-**ScanQuiz: Scan & Quiz** (“the App”, “we”, “our”) respects your privacy.
+**ScanQuiz** (“the App”, “we”, “our”) is designed to respect your privacy.  
+We intentionally collect **no personal data** and do **not track any users**.
 
-## What we collect
-- **No account data.** We don’t require you to create an account and we don’t collect names, emails, or other personal identifiers.
-- **No tracking/analytics.** We do not use third-party analytics or advertising SDKs.
+---
 
-## Your content
-- **On-device scanning.** Page scanning/OCR is performed on your device.
-- **Question generation.** When you ask the App to generate quiz questions, the text you scanned (or portions/chunks of it) is sent securely to our AI question-generation provider to fulfill your request. We do not send images or personal identifiers.
-- **Storage.** Scanned text, chapters, books, and generated quizzes are stored locally on your device. You can delete them at any time from within the App.
+## 📌 Summary
+- **We do NOT collect personal data.**
+- **We do NOT track users** across apps or websites.
+- **We do NOT share data** with advertisers or data brokers.
+- **We do NOT collect identifiers, analytics, or usage data.**
+- **Scans and quizzes stay on your device unless you choose to send text for AI processing.**
 
-## Purchases
-- **Subscriptions and payments** are processed by Apple. We don’t receive or store your payment information.
+This policy explains how ScanQuiz works with respect to privacy.
 
-## Children
-The App is general-audience software and is not directed to children under 13. If you are under the age required in your country, use the App only with a parent/guardian.
+---
 
-## Data security
-We use industry-standard TLS to transmit data to our AI provider when you generate questions. We aim to minimize what is transmitted (text only, no images).
+## 1. Information We Do NOT Collect
+ScanQuiz does **not** collect, store, or transmit any of the following:
 
-## Your choices
-- Don’t start question generation if you don’t want text sent to our AI provider.
-- Delete chapters/books/quizzes in the App to remove local copies.
+- Personal information (name, email, phone number)
+- Contact information or address book data
+- Location data
+- Device identifiers or advertising IDs
+- Usage data or analytics tied to identity
+- Photos or images from your library
+- Search history or browsing history
+- Sensitive data of any kind
 
-## Changes
-We may update this policy from time to time. Material changes will be reflected on this page with an updated effective date.
+We do not create user accounts and cannot identify individual users.
 
-## Contact
-Questions? Email **support@appscan.app**.
+---
+
+## 2. Camera & Photo Access
+- ScanQuiz uses your **device camera** only when you choose to scan textbook pages.
+- If you save a generated image/page to your Photos library, it is stored **locally** on your device.
+- ScanQuiz **cannot access your photo library** beyond saving the image you requested.
+
+---
+
+## 3. Question Generation (Optional)
+When you choose to generate quiz questions:
+
+- The **text you manually scan or enter** may be sent securely to our AI provider **only to generate your requested questions**.
+- **Images are not sent.**
+- The content is **not stored**, tracked, or used for advertising.
+- We do not send any identifiers or metadata.
+
+You control when text is sent by initiating question generation.
+
+---
+
+## 4. Local Storage
+ScanQuiz stores the following **locally on your device only**:
+
+- Scanned pages (text only)
+- Generated quizzes
+- History of your scans or quizzes (on-device only)
+
+You may delete any of these items directly inside the app at any time.
+
+We do not have access to any data stored on your device.
+
+---
+
+## 5. No Tracking
+ScanQuiz does **not**:
+- Use App Tracking Transparency (ATT)
+- Track users for advertising
+- Share data with third parties for tracking
+- Link data to your identity
+- Use third-party analytics SDKs
+
+Your activity is private and never used for tracking.
+
+---
+
+## 6. Purchases
+In-app purchases and subscriptions are processed by **Apple**.  
+We do not have access to your payment information.
+
+---
+
+## 7. Children’s Privacy
+ScanQuiz does not collect personal information from users of any age, including children under 13.  
+Parents/guardians may use the app with children at their discretion.
+
+---
+
+## 8. Data Security
+When text is sent to our AI provider (only during quiz generation):
+
+- The connection is encrypted using industry-standard TLS.
+- No personal data or images are transmitted.
+
+---
+
+## 9. Your Choices
+- Do not initiate question generation if you do not want text sent to the AI provider.
+- Delete scanned pages or quizzes from within the app at any time.
+- You may uninstall the app to remove all data stored on your device.
+
+---
+
+## 10. Changes to This Policy
+We may update this policy periodically.  
+Any changes will be posted on this page with a new effective date.
+
+---
+
+## 11. Contact Us
+If you have questions, email us at:  
+**support@scanquiz.app**
 
